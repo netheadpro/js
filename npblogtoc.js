@@ -1,16 +1,3 @@
-
-
-
-
-
-/*
-     FILE ARCHIVED ON 15:21:13 Apr 7, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:49:11 Nov 30, 2016.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
 // ---------------------------------------------------
 // BLOGTOC
 // ---------------------------------------------------
@@ -22,7 +9,7 @@
 // label.
 // ---------------------------------------------------
 // Author: Beautiful Beta
-// Url: /web/20160407152113/http://beautifulbeta.blogspot.com
+// Url: http://beautifulbeta.blogspot.com
 // Version: 2
 // Date: 2007-04-12
 // ---------------------------------------------------
@@ -282,5 +269,5 @@ function hideToc() {
   var tocdiv = document.getElementById("toc");
   tocdiv.innerHTML = '';
   var toclink = document.getElementById("toclink");
-  toclink.innerHTML = '<a href="#" onclick="scroll(0,0); showToc(); Effect.toggle('+"'toc-result','blind');"+'">? Show Table of Contents</a> <img src="/web/20160407152113/http://chenkaie.blog.googlepages.com/new_1.gif"/>';
+  toclink.innerHTML = '<a href="#" onclick="scroll(0,0); showToc(); Effect.toggle('+"'toc-result','blind');"+'">? Show Table of Contents</a> <img src="https://4.bp.blogspot.com/-X22ceVVkJUA/WD7iVMOLSPI/AAAAAAAAAIc/CkiWaoGXvds1hpyrDfr3AgARHxjstX5DQCPcB/s1600/new_1.gif"/>';
 }
